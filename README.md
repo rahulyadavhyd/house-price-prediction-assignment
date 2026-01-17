@@ -43,11 +43,6 @@ How can you make sure that a model is robust and generalisable? What are the imp
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-## Conclusions
-Details available in notebook
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
 
 ## Technologies Used
 
@@ -56,6 +51,13 @@ Details available in notebook
 - Pandas
 - Matplotlib
 - Seaborn
+
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+## Conclusions
+Details available in notebook
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
